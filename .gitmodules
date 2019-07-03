@@ -1,3 +1,6 @@
 [submodule "rename2"]
 	path = rename2
 	url = https://github.com/vim-scripts/Rename2.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
